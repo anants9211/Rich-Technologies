@@ -1,0 +1,1087 @@
+@media screen and (min-width: 300px) and (max-width: 575.98px) {
+
+
+    /* 1 */
+
+    .team {
+        margin: 1px 0px 0px 0px;
+        width: 100%;
+        padding: 0px 0px;
+    }
+
+    .make {
+    margin-left: 20px;
+}
+
+    .menu-icon {
+        display: block;
+        font-size: 25px;
+        cursor: pointer;
+    }
+
+    .services {
+        display: block;
+    }
+
+    .login {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+        position: absolute;
+        right: 30px;
+        top: 20px;
+
+        z-index: 1001;
+    }
+
+    .services .item {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 57px;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        max-height: 0;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+        transition: max-height 0.5s ease;
+        z-index: 1000;
+    }
+
+    .services .item.active {
+        max-height: 400px;
+        padding: 10px 0;
+    }
+
+    .item li {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    /* 2 */
+
+    .banner-img {
+    width: 100%;
+}
+
+    .banner-text {
+    width: 100%;
+    text-align: center;
+}
+
+    .better {
+    flex-direction: column-reverse;
+    width: 100%;
+}
+
+    .better h1 {
+    font-size: 22px;
+    width: 99%;
+    margin: 20px 0px 0px;
+}
+
+.better p {
+    font-size: 16px;
+    width: 99%;
+    margin: 10px 0px;
+}
+
+.learn {
+    width: 40%;
+}
+
+    /* 3 */
+
+    .report {
+    width: 100%;
+    margin: 0px 30px;
+}
+
+    .nini-dis,
+    .dis-no {
+        display: none;
+    }
+
+    /* 4 */
+
+    .real-time h1 {
+    width: 100%;
+    }
+
+    .real-time p {
+    width: 90%;
+
+}
+
+    .direct {
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fueled {
+    width: 90%;
+
+}
+
+    /* 5 */
+
+    .trusted h3 {
+    margin-left: 0px;
+    text-align: center;
+}
+
+    .trusted {
+    display: block;
+}
+
+    .trusted h1 {
+    margin-left: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.trusted p {
+    margin-left: 10px;
+    width: 95%;
+    text-align: center;
+}
+
+    .bespoke, .survey, .future{
+        display: none;
+    }
+
+    .create {
+    margin: 0px 20px;
+}
+
+    .images {
+    width: 100%;
+        height: 50px;
+}
+
+
+    /* 6 */
+
+    .help {
+    flex-direction: column-reverse;
+}
+
+.help-mini h2 {
+    margin-top: 30px;
+            font-size: 18px;
+}
+
+.help-mini h1 {
+    font-size: 24px;
+}
+
+.help-mini p {
+    width: 95%;
+    margin-left: 10px;
+}
+
+.buid {
+    width: 100%;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.sam-data {
+    flex-direction: column;
+    align-items: center;
+}
+
+.seamless {
+    width: 36%;
+}
+
+.tailor {
+    margin-left: 0px;
+}
+
+.business {
+    width: 100%;
+}
+
+.export {
+    width: 40%;
+    margin-bottom: 40px;
+}
+
+
+
+    /* 7 */
+
+    .ready {
+    width: 100%;
+    flex-direction: column;
+}
+
+.drive {
+    width: 95%;
+}
+
+.drive h1 {
+    width: 100%;
+    margin: 0px 0px;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.chat-btn {
+    width: 70%;
+        text-align: center;
+}
+
+    /* 8 */
+
+    .customer {
+    width: 100%;
+    flex-direction: column-reverse;
+    margin-bottom: 50px;
+}
+
+.stellar-mini {
+            width: 100%;
+        margin-left: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+
+.stellar h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.stellar h2 {
+    font-size: 24px;
+    width: 98%;
+    margin: 0px 5px;
+    text-align: center;
+}
+
+.stell {
+    flex-direction: column;
+    font-size: 16px;
+    width: 85%;
+}
+
+.hassle {
+            width: 100%;
+        margin-bottom: 30px;
+}
+
+.step {
+    width: 100%;
+            display: flex;
+        justify-content: center;
+}
+
+.step img {
+    border-radius: 5px;
+        width: 90%;
+}
+
+    /* 9 */
+
+    .search {
+    margin-left: 0px;
+    flex-direction: column-reverse;
+    width: 100%;
+    text-align: center;
+}
+
+.here h3 {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.here-mini {
+    width: 95%;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.here h2 {
+    font-size: 22px;
+    width: 100%;
+}
+
+.suit li {
+    font-size: 16px;
+    text-align: start;
+}
+
+.suit {
+    font-size: 16px;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.type {
+    font-size: 16px;
+    width: 85%;
+}
+
+.click {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.space {
+    width: 90%;
+}
+
+.space img {
+    border-radius: 5px;
+}
+
+
+    /* 10 */
+
+    .pri-mini{
+        display: none;
+    }
+
+    .silver {
+    flex-direction: column-reverse;
+}
+
+.blog {
+    width: 40%;
+        margin: 0px 20px;
+}
+
+.start {
+  position: relative;
+}
+
+.product {
+    width: 20%;
+    position: absolute;
+    right: 15%;
+    bottom: 40%;
+}
+
+.olives {
+    margin: 0px 15px;
+    width: 90%;
+}
+
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 767.98px) {
+
+    /* 1 */
+
+    .team {
+        margin: 1px 0px 0px 0px;
+        width: 100%;
+        padding: 0px 0px;
+    }
+
+        .make {
+    margin-left: 20px;
+}
+
+    .menu-icon {
+        display: block;
+        font-size: 25px;
+        cursor: pointer;
+    }
+
+    .services {
+        display: block;
+    }
+
+    .login {
+        display: none;
+    }
+
+    .menu-icon {
+        display: block;
+        position: absolute;
+        right: 30px;
+        top: 20px;
+
+        z-index: 1001;
+    }
+
+    .services .item {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 57px;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        max-height: 0;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+        transition: max-height 0.5s ease;
+        z-index: 1000;
+    }
+
+    .services .item.active {
+        max-height: 400px;
+        padding: 10px 0;
+    }
+
+    .item li {
+        margin: 10px 0;
+        text-align: center;
+    }
+
+
+    /* 2 */
+
+    .banner-img img {
+        min-height: 250px;
+    }
+
+    .better h1 {
+        font-size: 29px;
+        margin: 10px 10px 0px;
+        width: 100%;
+    }
+
+    .better p {
+        font-size: 16px;
+        width: 92%;
+        margin: 10px 10px;
+    }
+
+    .learn {
+        width: 35%;
+        margin: 0px 10px;
+    }
+
+
+    /* 3 */
+
+    .report {
+        display: flex;
+        width: 42%;
+        margin: 0px 25px;
+    }
+
+    .dis-no {
+        display: none;
+    }
+
+    /* 4 */
+
+    .real-time h1 {
+        width: 70%;
+    }
+
+    .real-time p {
+        width: 76%;
+    }
+
+    .fueled {
+        width: 40%;
+    }
+
+    .fueled img {
+        padding: 10px 12px 0px;
+    }
+
+    .stop-mini {
+        display: none;
+    }
+
+    /* 5 */
+
+    .images {
+        width: 445px;
+    }
+
+    .trusted {
+        display: block;
+        padding-bottom: 30px;
+    }
+
+    .trusted h3 {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .trusted h1 {
+        width: 91%;
+        margin-left: 30px;
+        text-align: center;
+    }
+
+    .trusted p {
+        width: 89%;
+        margin-left: 20px;
+        text-align: center;
+    }
+
+    .bespoke,
+    .survey,
+    .future {
+        display: none;
+    }
+
+
+    /* 6 */
+
+    .business {
+        width: 50%;
+    }
+
+    .tailor {
+        margin-left: 15px;
+        width: 100%;
+    }
+
+    .tailor img {
+        width: 100%;
+        min-height: 379px;
+    }
+
+    .help-mini h2 {
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+
+    .buid {
+        width: 50%;
+        margin-left: 25px;
+    }
+
+    .help-mini p {
+        width: 100%;
+    }
+
+    .seamless img {
+        width: 30%;
+    }
+
+    .seamless {
+        width: 33%;
+    }
+
+    .export {
+        width: 35%;
+    }
+
+
+
+    /* 7 */
+
+    .ready {
+        flex-direction: column;
+    }
+
+    .drive {
+        width: 80%;
+        text-align: center;
+    }
+
+    .drive h1 {
+        width: 100%;
+        margin: 0px 0px;
+        font-size: 32px;
+    }
+
+    .chat-btn {
+        width: 35%;
+        margin-top: 25px;
+    }
+
+    /* 8 */
+
+    .customer {
+        width: 100%;
+    }
+
+    .step {
+        width: 50%;
+    }
+
+    .step img {
+        min-height: 375px;
+    }
+
+    .stellar-mini {
+        width: 60%;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .stellar h2 {
+        font-size: 25px;
+        width: 100%;
+    }
+
+    .stellar h3 {
+        font-size: 24px;
+        margin-top: 0px;
+    }
+
+
+    .stell {
+        flex-direction: column;
+        font-size: 16px;
+        width: 90%;
+        padding-left: 20px;
+    }
+
+    .hassle {
+        width: 35%;
+    }
+
+    /* 9 */
+
+    .here h2 {
+        font-size: 25px;
+        width: 100%;
+        margin: 0px 0px;
+
+    }
+
+    .here h3 {
+        width: 45%;
+        font-size: 24px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+
+    .search {
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .space {
+        width: 50%;
+    }
+
+    .space img {
+        width: 100%;
+        min-height: 375px;
+    }
+
+    .here-mini {
+        width: 60%;
+        margin-left: 10px;
+    }
+
+    .type {
+        font-size: 20px;
+        width: 90%;
+    }
+
+    .suit {
+        width: 100%;
+        padding-left: 20px;
+    }
+
+    .suit li {
+        font-size: 16px;
+    }
+
+    .click {
+        width: 35%;
+    }
+
+
+
+    /* 10 */
+
+    .blog {
+        width: 24%;
+        margin: 0px 25px;
+    }
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991.98px) {
+
+    /* 1 */
+
+    .team {
+        padding: 0px 20px;
+    }
+
+    .item {
+        margin: 5px 10px 0px 0px;
+        padding: 0px;
+
+    }
+
+    .services ul li a {
+        margin: 0px 10px;
+    }
+
+    /* 2 */
+
+    .better h1 {
+        font-size: 30px;
+        margin: 20px 10px 0px;
+    }
+
+    .better p {
+        font-size: 16px;
+        margin: 5px 10px;
+        width: 100%;
+    }
+
+    .learn {
+        width: 30%;
+        margin: 5px 10px;
+    }
+
+
+    /* 3 */
+
+    .report {
+        margin: 0px 15px;
+        width: 30%;
+    }
+
+    /* 4 */
+
+    .real-time h1 {
+        width: 55%;
+        font-size: 30px;
+    }
+
+    .real-time p {
+        width: 59%;
+    }
+
+    .direct {
+        gap: 20px;
+    }
+
+    .fueled {
+        width: 30%;
+    }
+
+
+    /* 5 */
+
+    .trusted h3 {
+        margin-left: 30px;
+    }
+
+    .trusted h1 {
+        width: 90%;
+        margin-left: 30px;
+        font-size: 30px;
+    }
+
+    .trusted p {
+        width: 75%;
+        margin-left: 10px;
+    }
+
+    .survey {
+        display: none;
+    }
+
+    .future {
+        display: none;
+    }
+
+    /* 6 */
+
+    .business {
+        width: 60%;
+    }
+
+    .help-mini h1 {
+        margin: 10px 0px;
+        font-size: 30px;
+    }
+
+    .tailor {
+        margin-left: 30px;
+    }
+
+    .buid {
+        width: 60%;
+        margin-left: 20px;
+    }
+
+    .help-mini h2 {
+        margin-top: 20px;
+    }
+
+    .help-mini p {
+        width: 90%;
+    }
+
+    .sam-data {
+        margin: 15px 0px;
+    }
+
+    .seamless {
+        width: 30%;
+    }
+
+    .export {
+        width: 30%;
+    }
+
+
+    /* 7 */
+
+    .drive h1 {
+        width: 92%;
+        font-size: 30px;
+        margin: 0px 15px;
+    }
+
+    /* 8 */
+
+    .customer {
+        width: 97%;
+    }
+
+    .stellar-mini {
+        width: 60%;
+        margin-left: 30px;
+    }
+
+    .stellar h2 {
+        font-size: 28px;
+        width: 100%;
+        margin: 0px 0px;
+    }
+
+    .stellar h3 {
+        font-size: 24px;
+        margin-top: 0px;
+    }
+
+    .step {
+        width: 60%;
+    }
+
+    .stell {
+        width: 80%;
+        padding-left: 25px;
+        font-size: 16px;
+    }
+
+    .hassle {
+        width: 30%;
+    }
+
+    /* 9 */
+
+    .search {
+        width: 96%;
+        margin-left: 30px;
+    }
+
+    .space {
+        width: 60%;
+    }
+
+    .here-mini {
+        width: 60%;
+        margin-left: 30px;
+    }
+
+    .here h2 {
+        font-size: 28px;
+        width: 100%;
+        margin: 0px 0px;
+    }
+
+    .here h3 {
+        margin-top: 0px;
+    }
+
+    .type {
+        font-size: 16px;
+        width: 75%;
+    }
+
+    .suit li {
+        width: 100%;
+        font-size: 16px;
+    }
+
+
+    .click {
+        width: 30%;
+    }
+
+
+
+
+    /* 10 */
+
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199.98px) {
+
+    .team {
+        padding: 0px 25px;
+    }
+
+    .services ul li a {
+        margin: 0px 15px;
+    }
+
+    /*  */
+
+    .better h1 {
+        font-size: 30px;
+        width: 60%;
+    }
+
+    .better p {
+        font-size: 18px;
+    }
+
+    /*  */
+
+    .report {
+        width: 20%;
+        margin: 0px 50px;
+    }
+
+    .report {
+        margin: 0px 50px;
+        width: 23%;
+    }
+
+    .report p {
+        width: 100%;
+    }
+
+    /*  */
+
+    .real-time h1 {
+        width: 40%;
+    }
+
+    .real-time p {
+        width: 45%;
+    }
+
+    .trusted h1 {
+        width: 64%;
+    }
+
+    .trusted p {
+        width: 40%;
+        margin-left: 0px;
+    }
+
+    /*  */
+
+    .drive h1 {
+        width: 80%;
+    }
+
+    /*  */
+
+    .tailor {
+        margin-left: 30px;
+    }
+
+    .help-mini h2 {
+        margin-top: 25px;
+    }
+
+    .images {
+        width: 300px;
+    }
+
+    /*  */
+
+    .help-mini p {
+        width: 60%;
+    }
+
+    .seamless {
+        width: 33%;
+    }
+
+    /*  */
+
+    .search {
+        margin-left: 30px;
+        width: 97%;
+    }
+
+    .gold {
+        margin-bottom: 50px;
+    }
+
+    .stellar h3 {
+        margin: 10px 0px;
+    }
+
+    .stellar h2 {
+        width: 85%;
+    }
+
+    .stell {
+        width: 84%;
+    }
+
+    .stell li {
+        margin-bottom: 8px;
+    }
+
+    /*  */
+
+    .here h2 {
+        width: 75%;
+        margin: 10px 0px;
+    }
+
+    .here h3 {
+        margin: 10px 0px;
+    }
+
+    .type {
+        width: 80%;
+    }
+
+    .suit li {
+        margin-bottom: 8px;
+    }
+
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1240.98px) {
+
+    /*  */
+
+    .better h1 {
+        width: 82%;
+    }
+
+    .trusted p {
+        width: 28%;
+        margin-left: 60px;
+    }
+
+
+
+}

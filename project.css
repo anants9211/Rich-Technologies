@@ -1,0 +1,499 @@
+
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.team {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+    position: sticky;
+    top: 0px;
+    background-color: #FFFFFF;
+    z-index: 1;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.make {
+    margin: 10px 0px;
+}
+
+ul {
+    display: flex;
+}
+
+.services ul li {
+    list-style: none;
+}
+
+.services ul li a {
+    margin: 0px 30px;
+    text-decoration: none;
+    color: black;
+}
+
+.services {
+    display: flex;
+    margin: 10px 0px;
+}
+
+.login {
+    margin: 10px 0px;
+}
+
+
+.home {
+    width: 61%;
+    margin: 0px 0px;
+    padding: 6px;
+    color: #38345B;
+    border: 2px solid #38345B;
+}
+
+.career {
+    width: 35%;
+    background-color: #38345B;
+    color: #FFFFFF;
+    padding: 6px;
+}
+
+/* 2 */
+
+.count {
+    margin: auto;
+    width: 95%;
+    background-color: #F1F1FB;
+}
+
+.better {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+}
+
+.banner-img {
+    width: 50%;
+}
+
+.banner-text {
+    width: 50%;
+}
+
+.banner-img img {
+    width: 100%;
+
+}
+
+.better h1 {
+    font-size: 50px;
+    width: 80%;
+    margin: 40px 40px 0px;
+}
+
+.better p {
+    font-size: 22px;
+    width: 91%;
+    margin: 10px 40px;
+}
+
+.learn {
+    width: 25%;
+    margin: 10px 40px;
+    background-color: #38345B;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* 2 */
+.design {
+    display: flex;
+    margin: 25px 0px;
+}
+
+.report {
+    display: flex;
+    width: 20%;
+    margin: 0px 85px;
+}
+
+.report h1 {
+    width: 12%;
+    margin: 0px 10px;
+    line-height: 1.5rem;
+    font-size: 22px;
+}
+
+.report p {
+    width: 50%;
+    position: relative;
+    right: 15%;
+    top: 60%;
+}
+
+/* 3 */
+
+.offer {
+    background-color: #F1F1FB;
+    padding-bottom: 30px;
+}
+
+.real-time {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.real-time h4 {
+    margin: 30px 0px 0px 0px;
+    text-align: center;
+}
+
+.real-time h1 {
+    width: 35%;
+    text-align: center;
+    margin: 15px 0px;
+}
+
+.real-time p {
+    width: 37%;
+    text-align: center;
+    margin: 0px -5px 0px 0px;
+}
+
+.direct {
+    display: flex;
+    justify-content: center;
+    margin: 34px 0px;
+    gap: 40px;
+}
+
+.fueled {
+    border: 2px solid #D6D6FF;
+    width: 24%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.fueled img {
+    width: 90%;
+    padding: 10px 14px 0px;
+}
+
+.fueled p {
+    width: auto;
+    margin: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding: 10px 15px;
+}
+
+.offer-text {}
+
+/* 4 */
+
+.client {
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+.mini-client {}
+
+.trusted {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.trusted h3 {
+    margin-left: 50px;
+}
+
+.trusted h1 {
+    width: 60%;
+    margin: 30px 0px 0px 0px;
+    margin-left: 50px;
+}
+
+.trusted p {
+    width: 25%;
+    margin-left: 130px;
+}
+
+.create {
+    display: flex;
+    justify-content: space-between;
+    top: 60%;
+    margin: 0px 60px;
+}
+
+
+.images {
+    height: 60px;
+    width: 500px;
+    padding: 10px 0px;
+}
+
+.future {
+    margin-right: 80px;
+}
+
+/* 5 */
+
+.help {
+    background-color: #F1F1FB;
+    display: flex;
+    width: 100%;
+}
+
+.business {
+    width: 40%;
+}
+
+.help-mini h2 {
+    margin-top: 40px;
+}
+
+.help-mini h1 {
+    margin: 10px 0px;
+}
+
+.help-mini p {
+    width: 50%;
+    margin: 0;
+
+}
+
+.tailor {
+    margin-left: 60px;
+}
+
+.tailor img {
+    width: 100%;
+}
+
+.buid {
+    width: 60%;
+    margin-left: 40px;
+}
+
+.sam-data {
+    display: flex;
+    margin: 25px 0px;
+}
+
+.seamless {
+    width: 27%;
+    margin: 0px 0px;
+}
+
+.seamless img {
+    margin: 0px 14px;
+}
+
+.export {
+    width: 20%;
+    background-color: #38345B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* 6 */
+
+.ready {
+    display: flex;
+    width: 90%;
+    border-radius: 15px;
+    padding: 35px 0px;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+    background-color: #38345B;
+}
+
+.drive {
+    width: 80%;
+}
+
+.drive h1 {
+    color: #FFFFFF;
+    width: 72%;
+    margin: 0px 35px;
+    font-size: 33px;
+}
+
+.chat-btn {
+    width: 20%;
+}
+
+.chat {
+    width: 80%;
+    background-color: #38345B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    height: 3rem;
+    border: 2px solid #FFFFFF;
+}
+
+
+/* 7 */
+
+.customer {
+    display: flex;
+    background-color: #F1F1FB;
+    align-items: center;
+    width: 90%;
+    flex-direction: row-reverse;
+    margin-bottom: 50px;
+}
+
+.step {
+    width: 40%;
+}
+
+.step img {
+    width: 100%;
+}
+
+.stellar-mini {
+    width: 60%;
+    margin-left: 60px;
+}
+
+.stellar h3 {
+    font-size: 24px;
+}
+
+.stellar h2 {
+    font-size: 32px;
+    width: 65%;
+    margin: 0px 0px;
+}
+
+.tools {
+    margin: 0px 0px 0px 0px;
+}
+
+.stell {
+    flex-direction: column;
+    font-size: 20px;
+    width: 59%;
+}
+
+.hassle {
+    width: 20%;
+    background-color: #38345B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+/* 8 */
+
+.gold {
+    margin-bottom: 50px;
+}
+
+.search {
+    display: flex;
+    background-color: #F1F1FB;
+    align-items: center;
+    margin-left: 60px;
+    width: 95%;
+}
+
+.space {
+    width: 40%;
+}
+
+.space img {
+    width: 100%;
+}
+
+.here-mini {
+    width: 60%;
+    margin-left: 60px;
+}
+
+.here h2 {
+    font-size: 32px;
+    width: 65%;
+}
+
+.here h3 {
+    width: 45%;
+    font-size: 24px;
+}
+
+.type {
+    font-size: 20px;
+    width: 50%;
+}
+
+.suit {
+    flex-direction: column;
+    font-size: 22px;
+    width: 100%;
+}
+
+.suit li {
+    width: 100%;
+    font-size: 20px;
+}
+
+.click {
+    width: 20%;
+    background-color: #38345B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+/* 9 */
+
+.start {
+    color: #FFFFFF;
+    background-color: #1D1B33;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 30px;
+}
+
+.silver {
+    display: flex;
+}
+
+.blog {
+
+    width: 15%;
+    margin: 0px 40px;
+}
+
+.facebook a {
+    color: #FFFFFF;
+    line-height: 2;
+    text-decoration: none;
+}
+
+.product {
+    width: 20%;
+}
+
+.olives-mini {
+    display: flex;
+}
+
+.olives {
+    margin: 0px 40px;
+    width: 80%;
+}
